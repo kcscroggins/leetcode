@@ -25,7 +25,7 @@ Explanation: "tabacat" is not a palindrome.
 
 '''
 Error 1: Never refresh front_letter / back_letter after a successful match
-Error 2: Moved the back_ptr in the wrong direction (Line 50)
+Error 2: Moved the back_ptr in the wrong direction (Line 51)
 Error 3: Loop condition is wrong for even length words (Line 40)
 '''    
 
